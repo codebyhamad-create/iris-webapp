@@ -99,4 +99,4 @@ The things I'd genuinely like to improve if I keep working on this:
 
 ---
 
-*Hamadullah Rajper — feel free to fork and build on it*
+*Built with ❤️ by Hamadullah Rajpar*
