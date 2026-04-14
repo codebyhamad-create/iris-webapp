@@ -27,7 +27,7 @@ Make sure you have Python 3.8+ installed, then:
 
 ```bash
 # 1. grab the code
-git clone https://github.com/hamadullah-rajper/iris-webapp.git
+git clone https://github.com/codebyhamad-create/iris-webapp.git
 cd iris-webapp-hamadullah
 
 # 2. install what's needed
